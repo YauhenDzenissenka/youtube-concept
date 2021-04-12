@@ -5,4 +5,4 @@
 -HTML
 -CSS
 -Normalize.css
--SVS Sprites
+-SVG Sprites
