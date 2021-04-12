@@ -2,7 +2,7 @@
 Проект выполнил: Евгений Денисенко
 
 ## Используемые технологии
--HTML
--CSS
--Normalize.css
--SVG Sprites
+- HTML
+- CSS
+- Normalize.css
+- SVG Sprites
